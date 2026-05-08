@@ -1,7 +1,7 @@
 <!-- Animated header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nahusenay+%F0%9F%91%8B;Data+%26+AI+Engineer;Building+auditable+pipelines;Agentic+systems+architect;DevOps+%7C+CI%2FCD+%7C+Infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nahom Desalegn+%F0%9F%91%8B;Data+%26+AI+Engineer;Building+auditable+pipelines;Agentic+systems+architect;DevOps+%7C+CI%2FCD+%7C+Infrastructure" alt="Typing SVG" />
 
 </div>
 
